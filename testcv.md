@@ -1,4 +1,4 @@
-Amber Budd
+# Amber Budd
 ________________________________________
 2035 Avalon Mist Circle
 Dardenne Prairie, MO 63368
@@ -6,7 +6,7 @@ Dardenne Prairie, MO 63368
 amber.budd@gmail.com
 ALB756@lindenwood.edu
 
-Education
+## Education
 ________________________________________
 
 B.A. English – Creative Writing Emphasis  May 2025 (anticipated)
@@ -19,7 +19,7 @@ Honor Societies:
 	Alpha Lambda Delta  April 2024
 	Phi Theta Kappa  February 2021
 
-Honors and Awards
+## Honors and Awards
 ________________________________________
 
 University Honors  May 2025 (anticipated)
